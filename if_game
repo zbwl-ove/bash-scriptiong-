@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "you died"
+#first number checker 
+sleep 2
+read -p "choose you number between 0 - 1" num1
+echo "$num1"
